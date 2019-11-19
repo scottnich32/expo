@@ -9685,8 +9685,8 @@ CACHE_KEYS:
       - UMPermissionsInterface (4.0.0)
   UMReactNativeAdapter:
     BUILD_SETTINGS_CHECKSUM:
-      UMReactNativeAdapter: d1d6fddd8bc592ac726865cf408276d2
-    CHECKSUM: 5c60b27fffb09b29e846f462f1ce06975e69a1b6
+      UMReactNativeAdapter: 7f02b125e444192ebecc9c7a93c0f965
+    CHECKSUM: 5671ca6b5084d74e9a6b29d2506c6a40c712c643
     FILES:
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/Services/UMReactFontManager.h"
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/Services/UMReactFontManager.m"
@@ -9697,6 +9697,8 @@ CACHE_KEYS:
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/Services/UMReactNativeEventEmitter.h"
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/Services/UMReactNativeEventEmitter.m"
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMBridgeModule.h"
+      - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMExportedModuleSpecJSI/UMExportedModuleSpecJSI.h"
+      - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMExportedModuleSpecJSI/UMExportedModuleSpecJSI.mm"
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMModuleRegistryAdapter/UMModuleRegistryAdapter.h"
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMModuleRegistryAdapter/UMModuleRegistryAdapter.m"
       - "../../packages/@unimodules/react-native-adapter/ios/UMReactNativeAdapter/UMModuleRegistryAdapter/UMViewManagerAdapterClassesRegistry.h"
