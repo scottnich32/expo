@@ -71,6 +71,7 @@ This is the log of notable changes to the Expo client that are developer-facing.
 - Fixed `expo-gl` crashing an app when context initialization happens on remote JS context. ([#6381](https://github.com/expo/expo/pull/6381) by [@tsapeta](https://github.com/tsapeta))
 - Fixed memory leaks caused by `ImagePicker` module. ([#6303](https://github.com/expo/expo/pull/6303) by [@lukmccall](https://github.com/lukmccall))
 - Fixed Android scoped `FileSystem` migration. ([#6367](https://github.com/expo/expo/pull/6367))
+- Fixed `Camera.takePictureAsync()` not saving metadata on iOS. ([#6428](https://github.com/expo/expo/pull/6428) by [@lukmccall](https://github.com/lukmccall))
 
 ## 35.0.0
 
