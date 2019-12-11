@@ -1,5 +1,5 @@
 ---
-title: Configuration with app.json
+Expo: Configuration with app.json
 ---
 
 `app.json` is your go-to place for configuring parts of your app that don't belong in code. It is located at the root of your project next to your `package.json`. It looks something like this:
